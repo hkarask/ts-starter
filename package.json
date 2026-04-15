@@ -1,0 +1,18 @@
+{
+  "name": "ts-starter",
+  "version": "1.0.0",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "packageManager": "pnpm@10.26.0",
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2"
+  }
+}
